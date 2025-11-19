@@ -69,7 +69,7 @@ Notas são armazenadas no arquivo usuarios_notas.json
 
 O aluno pode consultar seu desempenho no menu
 
-🗂 Gerenciamento de Dados
+Gerenciamento de Dados
 
 Usuários gerados automaticamente com Faker
 
